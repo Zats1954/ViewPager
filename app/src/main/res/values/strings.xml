@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">ViewPager</string>
-    <string name="title_text">Галерея картин</string>
-    <string name="exit">Выход</string>
-    <string name="add">Добавить</string>
-    <string name="button_edit">Редактировать</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+     <string name="add">Добавить</string>
+    <string name="button">Начать</string>
+    <string name="text_sign_up">Sign Up</string>
+    <string name="text_sign_in">Sign In</string>
+    <string name="ended_text">     Ура!\nВы успешно залогинились!</string>
+    <string name="text_btn_up">Зарегистрироваться</string>
+    <string name="text_btn_in">Войти</string>
+    <string name="bank_title">БАНК ВотТеБе</string>
 </resources>
